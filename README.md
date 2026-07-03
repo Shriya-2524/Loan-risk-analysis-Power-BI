@@ -1,5 +1,3 @@
-﻿# Loan-risk-analysis-Power-BI
- 
 # Loan Risk Analysis & Underwriting Dashboard
 
 An end-to-end Power BI Business Intelligence solution designed to analyze credit risk profiles, evaluate historical loan metrics, and detect core data-driven indicators that impact borrower loan approval and defaults.
